@@ -1,0 +1,15 @@
+C:\Users\MINEDUCYT\source\repos\Guia_3_semana_6\Guia_3_semana_6\bin\Debug\net6.0\Guia_3_semana_6.exe
+C:\Users\MINEDUCYT\source\repos\Guia_3_semana_6\Guia_3_semana_6\bin\Debug\net6.0\Guia_3_semana_6.deps.json
+C:\Users\MINEDUCYT\source\repos\Guia_3_semana_6\Guia_3_semana_6\bin\Debug\net6.0\Guia_3_semana_6.runtimeconfig.json
+C:\Users\MINEDUCYT\source\repos\Guia_3_semana_6\Guia_3_semana_6\bin\Debug\net6.0\Guia_3_semana_6.dll
+C:\Users\MINEDUCYT\source\repos\Guia_3_semana_6\Guia_3_semana_6\bin\Debug\net6.0\Guia_3_semana_6.pdb
+C:\Users\MINEDUCYT\source\repos\Guia_3_semana_6\Guia_3_semana_6\obj\Debug\net6.0\Guia_3_semana_6.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\source\repos\Guia_3_semana_6\Guia_3_semana_6\obj\Debug\net6.0\Guia_3_semana_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\source\repos\Guia_3_semana_6\Guia_3_semana_6\obj\Debug\net6.0\Guia_3_semana_6.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\source\repos\Guia_3_semana_6\Guia_3_semana_6\obj\Debug\net6.0\Guia_3_semana_6.AssemblyInfo.cs
+C:\Users\MINEDUCYT\source\repos\Guia_3_semana_6\Guia_3_semana_6\obj\Debug\net6.0\Guia_3_semana_6.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\Guia_3_semana_6\Guia_3_semana_6\obj\Debug\net6.0\Guia_3_semana_6.dll
+C:\Users\MINEDUCYT\source\repos\Guia_3_semana_6\Guia_3_semana_6\obj\Debug\net6.0\refint\Guia_3_semana_6.dll
+C:\Users\MINEDUCYT\source\repos\Guia_3_semana_6\Guia_3_semana_6\obj\Debug\net6.0\Guia_3_semana_6.pdb
+C:\Users\MINEDUCYT\source\repos\Guia_3_semana_6\Guia_3_semana_6\obj\Debug\net6.0\Guia_3_semana_6.genruntimeconfig.cache
+C:\Users\MINEDUCYT\source\repos\Guia_3_semana_6\Guia_3_semana_6\obj\Debug\net6.0\ref\Guia_3_semana_6.dll
